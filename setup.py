@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='my_python_package',  # Replace with your package name
-    version='0.1.0',  # Version of your package
+    version='0.0.2',  # Version of your package
     author='SD',
     description='A custom Python module for demonstrating publishing to PyPI',
     long_description=open('README.md').read(),
